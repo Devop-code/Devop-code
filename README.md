@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Devop-code
 - 👀 I’m interested in web developpment and mobile developpment
 - 🌱 I’m currently learning django and next js
-- 💞️ I’m looking to collaborate on ...django or react js/next js
+- 💞️ I’m looking to collaborate on ...django or react js/next js / react-native
 - 📫 How to reach me : DM me on this email : kamgadevop@gmail.com
 
 <!---
